@@ -11,7 +11,8 @@
 - **Low Cost**: Uses less than 0.00001 VANA.  
 - **Multi-Account Support**: Handle multiple accounts with ease.  
 - **Multi-Referral System**: Supports referral operations for multiple users.  
-
+- **Proxy Support**: Supports Proxy . 
+- **Auto solve captcha**: 2captha / capsolver
 ![Screenshot](https://i.ibb.co/w0rvLX4/Cuplikan-layar-2024-07-27-222241.png)  
 
 ---
