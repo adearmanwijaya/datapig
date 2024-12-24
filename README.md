@@ -13,7 +13,7 @@
 - **Multi-Referral System**: Supports referral operations for multiple users.  
 - **Proxy Support**: Supports Proxy . 
 - **Auto solve captcha**: 2captha / capsolver
-![Screenshot](https://i.ibb.co/w0rvLX4/Cuplikan-layar-2024-07-27-222241.png)  
+![Screenshot](https://i.ibb.co/KyQ1fzX/Cuplikan-layar-2024-12-24-105637.png)  
 
 ---
 
